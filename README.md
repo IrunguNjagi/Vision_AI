@@ -39,7 +39,7 @@ git --version
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vision-app.git
+git clone https://github.com/IrunguNjagi/vision-app.git
 ```
 
 Navigate into the project folder:
